@@ -27,7 +27,7 @@ The AODV code developed by the CMU/MONARCH group was optimized and tuned by Sami
 #include <aodv/aodv_packet.h>
 #include <random.h>
 #include <cmu-trace.h>
-//#include <energy-model.h>
+//#include <energy-model.h> //
 #include <../../../../lib/gcc/i686-pc-cygwin/4.3.4/include/c++/cstdlib>
 #include <../../../../lib/gcc/i686-pc-cygwin/4.3.4/include/c++/ctime>
 #include <../../../../lib/gcc/i686-pc-cygwin/4.3.4/include/c++/iostream>
